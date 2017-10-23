@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "options": {},
+  "collections": [
+    {
+      "name": "Default",
+      "path": ".\\src\\Configuration\\Default.ps1",
+      "nodes": [
+        "nodes/Web"
+      ],
+      "docs": {
+        "name": "Default",
+        "path": ".\\src\\Template\\Default.ps1"
+      }
+    }
+  ],
+  "modules": []
+}
