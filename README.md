@@ -11,6 +11,7 @@ This project is to be considered a **proof-of-concept** and **not a supported Mi
 - Install the DevOpsKitDsc PowerShell module from the PowerShell Gallery (`Install-Module -Name 'DevOpsKitDsc'`)
 - Install Visual Studio Code v1.16.0 or higher (https://code.visualstudio.com/)
 - Install _DevOps Kit for Dsc_ Visual Studio Code extension
+- Read through [introduction](docs/introduction.md) and update as required
 
 ## Maintainers
 
