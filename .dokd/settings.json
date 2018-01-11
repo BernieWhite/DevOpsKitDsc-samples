@@ -9,9 +9,16 @@
         "nodes/Web"
       ],
       "docs": {
-        "name": "Default",
-        "path": ".\\src\\Template\\Default.ps1"
+        "path": ".\\src\\Template\\Default.ps1",
+        "name": "Default"
       }
+    },
+    {
+      "name": "SharePoint",
+      "path": ".\\src\\Configuration\\SharePoint.ps1",
+      "nodes": [
+        "nodes/SharePoint"
+      ]
     }
   ],
   "modules": []
