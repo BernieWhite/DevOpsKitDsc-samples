@@ -2,3 +2,5 @@
 /modules/
 /build/
 /.docfx/
+/out/
+/.dokd-obj/
