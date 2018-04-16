@@ -1,0 +1,7 @@
+{
+    "search.exclude": {
+        "out": true,
+        "build": true,
+        ".dokd-obj": true
+    }
+}
